@@ -10,13 +10,13 @@ Improved Bayesian Saliency - IBS
 Improved Bayesian based Saliency for Object Proposal - IBSOP
 
 # Citation
-@inproceedings{li2016improved,
-  title={Improved saliency detection based on Bayesian framework for object proposal},
-  author={Li, Jie and Xu, Wei and Yuan, Xia and Zhao, Chunxia},
-  booktitle={Robotics and Biomimetics (ROBIO), 2016 IEEE International Conference on},
-  pages={2093--2098},
-  year={2016},
-  organization={IEEE}
+@inproceedings{li2016improved,  
+  title={Improved saliency detection based on Bayesian framework for object proposal},  
+  author={Li, Jie and Xu, Wei and Yuan, Xia and Zhao, Chunxia},  
+  booktitle={Robotics and Biomimetics (ROBIO), 2016 IEEE International Conference on},  
+  pages={2093--2098},  
+  year={2016},  
+  organization={IEEE}  
 }
 
 # Codes
