@@ -20,9 +20,9 @@ Improved Bayesian based Saliency for Object Proposal - IBSOP
 }
 
 # Main References
-[1]Rahtu E, Kannala J, Salo M, et al. Segmenting salient objects from images and videos[J]. Computer Vision–ECCV 2010, 2010: 366-379.([paper](http://www.ee.oulu.fi/~jkannala/publications/eccv2010.pdf))  
+[1]Rahtu E, Kannala J, Salo M, et al. Segmenting salient objects from images and videos[J]. Computer Vision–ECCV 2010, 2010: 366-379.([paper](http://www.ee.oulu.fi/~jkannala/publications/eccv2010.pdf), [code](http://www.cse.oulu.fi/MVG/Downloads/saliency))  
 [2]Xie Y, Lu H. Visual saliency detection based on Bayesian model[C]//Image Processing (ICIP), 2011 18th IEEE International Conference on. IEEE, 2011: 645-648.([paper](http://ieeexplore.ieee.org/document/6116634/))  
-[4]Cheng M M, Warrell J, Lin W Y, et al. Efficient salient region detection with soft image abstraction[C]//Proceedings of the IEEE International Conference on Computer vision. 2013: 1529-1536.([paper](http://mmcheng.net/mftp/Papers/ICCV13SaliencyGC.pdf))  
+[4]Cheng M M, Warrell J, Lin W Y, et al. Efficient salient region detection with soft image abstraction[C]//Proceedings of the IEEE International Conference on Computer vision. 2013: 1529-1536.([paper](http://mmcheng.net/mftp/Papers/ICCV13SaliencyGC.pdf), [code](http://mmcheng.net/mftp/Data/SaliencyICCV2013.zip))  
 [7]Zhu W, Liang S, Wei Y, et al. Saliency optimization from robust background detection[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2014: 2814-2821.([paper](http://ieeexplore.ieee.org/document/6909756/), [code](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/yichenw-mcode_addslicsourcecode_8_30_2014.rar))
 
 # Codes
